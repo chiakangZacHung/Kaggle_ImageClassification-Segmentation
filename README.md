@@ -32,15 +32,14 @@ You will have 2 weeks to solve a segmentation problem on the proposed dataset, w
 </p>
 
 Given:
- -Image size: 256x256 pixels
- -Color space: RGB
- -File Format: tif
- -Number of classes: 2
- -Classes:
- -'background' : 0
- -'building' : 1 (corresponding to the value 255 in the stored masks)
- -Number of training images: 7647
- -Number of tes images: 1234
+ - Image size: 256x256 pixels
+ - Color space: RGB
+ - File Format: tif
+ - Number of classes: 2
+ - 'background' : 0
+ - 'building' : 1 (corresponding to the value 255 in the stored masks)
+ - Number of training images: 7647
+ - Number of test images: 1234
  - **Evaluation**: IoU, Insertion over Union
 
 *Test result*: of 0.5 of IoU. The model utilizes data augumentation and UNet as it is the standard approach for image segmentation.
