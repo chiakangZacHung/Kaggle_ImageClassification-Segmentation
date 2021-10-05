@@ -17,7 +17,7 @@ Given:
  - **Evaluation**: Multiclass Accuracy
 
 <p align="center">
-    <img height="350" src="IMG/waterFall.jpg"> <img height="350" src="IMG/firework.jpg"> 
+    <img height="350" src="IMG/waterFall.jpg"> <img height="350" src="IMG/Firework.jpg"> 
 </p>
 
 *Test result*: 92% of accuracy. The model utilizes image augumentation that includes resizing, brightening, flipping horizontally and vertically the images. In addition, the model uses transfer learning to improve the results
