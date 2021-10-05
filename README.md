@@ -16,7 +16,7 @@ Given:
  - 20 different classes(such as water fall, fireworks, car..)
  - **Evaluation**: Multiclass Accuracy
 
-**Below are the examples of input data**
+**Below are the examples of the input data**
 <p align="center">
     <img height="350" src="IMG/waterFall.jpg"> <img height="350" src="IMG/Firework.jpg"> 
 </p>
