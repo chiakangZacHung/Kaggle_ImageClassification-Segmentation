@@ -1,5 +1,5 @@
 # Politecnico di Milano Artificial Neural Network and Deep Learning Competition
-This is kaggle competition hosted by Politecnico di Milano
+This is a kaggle competition hosted by Politecnico di Milano during 2019/2020
 
 There are two challenges in the competition
  - Image Classification 
