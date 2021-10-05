@@ -15,7 +15,7 @@ Given:
  - 500 JPG files for testing
  - 20 different classes(such as water fall, fireworks, car..)
  - **Evaluation**: Multiclass Accuracy
-
+Below are the examples of input data
 <p align="center">
     <img height="350" src="IMG/waterFall.jpg"> <img height="350" src="IMG/Firework.jpg"> 
 </p>
