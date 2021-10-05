@@ -16,7 +16,7 @@ Given:
  - 20 different classes(such as water fall, fireworks, car..)
  - **Evaluation**: Multiclass Accuracy
 
-**Below are the examples of the input data. On the Left, it should be classified as waterfall. On the right it should be classified as firework**
+**On the Left, it should be classified as waterfall. On the right it should be classified as firework**
 <p align="center">
     <img height="350" src="IMG/waterFall.jpg"> <img height="350" src="IMG/Firework.jpg"> 
 </p>
@@ -28,8 +28,9 @@ Given:
 
 You will have 2 weeks to solve a segmentation problem on the proposed dataset, which contains aerial images of different areas. Given an image, the goal is to segment buildings at pixel level, thus predicting for each pixel if it belongs to a building (class 1) or not (class 0).
 
+**Some example**
 <p align="center">
-    <img height="350" src="IMG/imageSeg.png"> 
+    <img height="350" src="IMG/imagSeg.png"> 
 </p>
 
 Given:
