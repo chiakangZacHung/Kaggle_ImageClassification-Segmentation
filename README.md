@@ -35,7 +35,7 @@ You will have 2 weeks to solve a segmentation problem on the proposed dataset, w
 
 **Some example**
 <p align="center">
-    <img height="350" src="IMG/imagSeg.png"> 
+    <img height="350" src="IMG/imagSeg2.png"> 
 </p>
 
 Given:
