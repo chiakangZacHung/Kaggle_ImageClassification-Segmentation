@@ -29,7 +29,7 @@ Given:
 You will have 2 weeks to solve a segmentation problem on the proposed dataset, which contains aerial images of different areas. Given an image, the goal is to segment buildings at pixel level, thus predicting for each pixel if it belongs to a building (class 1) or not (class 0).
 
 <p align="center">
-    <img height="350" src="IMG/imageSeg.jpg"> 
+    <img height="350" src="IMG/imageSeg.png"> 
 </p>
 
 Given:
