@@ -49,5 +49,5 @@ Given:
  - Number of test images: 1234
  - **Evaluation**: IoU, Insertion over Union
 
-*Test result*: of 0.5 of IoU. The model utilizes data augumentation and UNet as it is the standard approach for image segmentation.
+*Test result*: of 0.45 of IoU. The model utilizes data augumentation and UNet as it is the standard approach for image segmentation.
 
