@@ -13,7 +13,7 @@ You will have 2 weeks to solve a classification problem on the proposed dataset,
 Given:
  - 1554 JPG files for training
  - 500 JPG files for testing
- - 20 different classes
+ - 20 different classes(such as water fall, fireworks, car..)
  - **Evaluation**: Multiclass Accuracy
 
 <p align="center">
